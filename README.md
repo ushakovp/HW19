@@ -30,3 +30,6 @@ Referer: https://translate.yandex.ru/?source_lang=ru&target_lang=en
 Accept-Encoding: gzip, deflate, br
 Accept-Language: ru
 ```
+Четвертое задание  
+Цвет: #5C79B11A;  
+Размер: 40x40px;
